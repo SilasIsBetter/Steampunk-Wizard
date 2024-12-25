@@ -1312,9 +1312,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1532580876}
   - component: {fileID: 1532580875}
-  - component: {fileID: 1532580874}
   - component: {fileID: 1532580873}
   - component: {fileID: 1532580877}
+  - component: {fileID: 1532580878}
   m_Layer: 0
   m_Name: Camera
   m_TagString: Untagged
@@ -1461,14 +1461,6 @@ MonoBehaviour:
       enableFptlForForwardOpaque: 0
       enableBigTilePrepass: 0
       isFptlEnabled: 0
---- !u!81 &1532580874
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1532580871}
-  m_Enabled: 1
 --- !u!20 &1532580875
 Camera:
   m_ObjectHideFlags: 0
@@ -1547,6 +1539,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef98a7c3224c6704d976c8bd33dfc59e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1532580878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1532580871}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86c6556701af9e04380698b89f691b6e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nonRigidbodyVelocity: 0
+  attenuationObject: {fileID: 0}
 --- !u!1 &1777203102
 GameObject:
   m_ObjectHideFlags: 0
