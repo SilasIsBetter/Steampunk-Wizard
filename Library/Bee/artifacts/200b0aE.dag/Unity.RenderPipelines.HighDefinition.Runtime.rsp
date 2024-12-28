@@ -127,6 +127,8 @@
 -define:ENABLE_VR_MODULE
 -define:ENABLE_XR_MODULE
 -define:REFLECTION_PROBE_UPDATE_CACHED_DATA_AVAILABLE
+-define:ENABLE_NVIDIA_MODULE
+-define:ENABLE_AMD_MODULE
 -define:ENABLE_MATHEMATICS_1_2_1
 -define:ENABLE_BURST_1_5_0_OR_NEWER
 -define:HDRP_HAS_TIMELINE
@@ -381,6 +383,7 @@
 -r:"Library/PackageCache/com.unity.collections/Unity.Collections.LowLevel.ILSupport/Unity.Collections.LowLevel.ILSupport.dll"
 -r:"Library/PackageCache/com.unity.ext.nunit/net40/unity-custom/nunit.framework.dll"
 -r:"Library/PackageCache/com.unity.nuget.mono-cecil/Mono.Cecil.dll"
+-r:"Library/PackageCache/com.unity.nuget.newtonsoft-json/Runtime/Newtonsoft.Json.dll"
 -r:"Library/PackageCache/com.unity.testtools.codecoverage/lib/ReportGenerator/ReportGeneratorMerged.dll"
 -r:"Library/PackageCache/com.unity.visualscripting/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll"
 -r:"Library/PackageCache/com.unity.visualscripting/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll"

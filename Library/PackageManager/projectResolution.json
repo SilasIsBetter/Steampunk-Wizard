@@ -46,6 +46,28 @@
       "version": "1.0.2",
       "source": "builtin"
     },
+    "com.unity.feature.gameplay-storytelling@1.0.0": {
+      "name": "com.unity.feature.gameplay-storytelling",
+      "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.feature.gameplay-storytelling",
+      "fingerprint": "50e89b3b1e7899b893da829fd79a2faf70ddf4e1",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.feature.worldbuilding@1.0.1": {
+      "name": "com.unity.feature.worldbuilding",
+      "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.feature.worldbuilding",
+      "fingerprint": "5bd9d4382e4a612ed89a3e50a11f56d479ec8232",
+      "version": "1.0.1",
+      "source": "builtin"
+    },
+    "com.unity.inputsystem@1.11.2": {
+      "name": "com.unity.inputsystem",
+      "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.inputsystem",
+      "fingerprint": "3c4a97c3950fef77960981e0fe90613de6e512ee",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "1.11.2",
+      "source": "registry"
+    },
     "com.unity.multiplayer.center@1.0.0": {
       "name": "com.unity.multiplayer.center",
       "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.multiplayer.center",
@@ -61,6 +83,22 @@
       "editorCompatibility": "6000.0.0a1",
       "version": "17.0.3",
       "source": "builtin"
+    },
+    "com.unity.services.analytics@6.0.2": {
+      "name": "com.unity.services.analytics",
+      "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.services.analytics",
+      "fingerprint": "6629cba2f5e7ff255833c417c8610bd06c505241",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "6.0.2",
+      "source": "registry"
+    },
+    "com.unity.services.cloud-diagnostics@1.0.10": {
+      "name": "com.unity.services.cloud-diagnostics",
+      "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.services.cloud-diagnostics",
+      "fingerprint": "bb0159d0509ac7234fecd7580ab26b918630e197",
+      "editorCompatibility": "2022.1.0a1",
+      "version": "1.0.10",
+      "source": "registry"
     },
     "com.unity.timeline@1.8.7": {
       "name": "com.unity.timeline",
@@ -78,14 +116,6 @@
       "version": "2.0.0",
       "source": "builtin"
     },
-    "com.unity.visualscripting@1.9.4": {
-      "name": "com.unity.visualscripting",
-      "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.visualscripting",
-      "fingerprint": "0920df93f9574f857a55af27bd38fdd9230a3f51",
-      "editorCompatibility": "2021.3.0a1",
-      "version": "1.9.4",
-      "source": "registry"
-    },
     "com.unity.modules.accessibility@1.0.0": {
       "name": "com.unity.modules.accessibility",
       "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.modules.accessibility",
@@ -95,6 +125,12 @@
     "com.unity.modules.ai@1.0.0": {
       "name": "com.unity.modules.ai",
       "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.modules.ai",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.amd@1.0.0": {
+      "name": "com.unity.modules.amd",
+      "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.modules.amd",
       "version": "1.0.0",
       "source": "builtin"
     },
@@ -149,6 +185,12 @@
     "com.unity.modules.jsonserialize@1.0.0": {
       "name": "com.unity.modules.jsonserialize",
       "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.modules.jsonserialize",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.nvidia@1.0.0": {
+      "name": "com.unity.modules.nvidia",
+      "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.modules.nvidia",
       "version": "1.0.0",
       "source": "builtin"
     },
@@ -290,6 +332,14 @@
       "version": "1.0.0",
       "source": "builtin"
     },
+    "com.unity.services.core@1.13.0": {
+      "name": "com.unity.services.core",
+      "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.services.core",
+      "fingerprint": "ebe452e552b92964f64e438bdc2e6a7d850c66cc",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "1.13.0",
+      "source": "registry"
+    },
     "com.unity.render-pipelines.core@17.0.3": {
       "name": "com.unity.render-pipelines.core",
       "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.render-pipelines.core",
@@ -321,6 +371,54 @@
       "editorCompatibility": "6000.0.0a1",
       "version": "17.0.3",
       "source": "builtin"
+    },
+    "com.unity.probuilder@6.0.4": {
+      "name": "com.unity.probuilder",
+      "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.probuilder",
+      "fingerprint": "a2827f523e21ea251861dac290125410ba4e560b",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "6.0.4",
+      "source": "registry"
+    },
+    "com.unity.polybrush@1.1.8": {
+      "name": "com.unity.polybrush",
+      "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.polybrush",
+      "fingerprint": "9b4531013fbd4797d91318680619ee8780c62b91",
+      "editorCompatibility": "2018.4.0a1",
+      "version": "1.1.8",
+      "source": "registry"
+    },
+    "com.unity.formats.fbx@5.1.1": {
+      "name": "com.unity.formats.fbx",
+      "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.formats.fbx",
+      "fingerprint": "4ad3eb16b6169d696abf31e81f575752527d445e",
+      "editorCompatibility": "2020.3.0a1",
+      "version": "5.1.1",
+      "source": "registry"
+    },
+    "com.unity.terrain-tools@5.1.2": {
+      "name": "com.unity.terrain-tools",
+      "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.terrain-tools",
+      "fingerprint": "d4bcf51a280e611c70611a4f4045f686f2948913",
+      "editorCompatibility": "2023.1.0a25",
+      "version": "5.1.2",
+      "source": "registry"
+    },
+    "com.unity.cinemachine@2.10.2": {
+      "name": "com.unity.cinemachine",
+      "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.cinemachine",
+      "fingerprint": "6854b34e58419b9346026c4393678804583b044b",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.10.2",
+      "source": "registry"
+    },
+    "com.unity.visualscripting@1.9.4": {
+      "name": "com.unity.visualscripting",
+      "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.visualscripting",
+      "fingerprint": "0920df93f9574f857a55af27bd38fdd9230a3f51",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.9.4",
+      "source": "registry"
     },
     "com.unity.ide.visualstudio@2.0.22": {
       "name": "com.unity.ide.visualstudio",
@@ -370,22 +468,6 @@
       "version": "1.2.6",
       "source": "registry"
     },
-    "com.unity.cinemachine@2.10.2": {
-      "name": "com.unity.cinemachine",
-      "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.cinemachine",
-      "fingerprint": "6854b34e58419b9346026c4393678804583b044b",
-      "editorCompatibility": "2019.4.0a1",
-      "version": "2.10.2",
-      "source": "registry"
-    },
-    "com.unity.formats.fbx@5.1.1": {
-      "name": "com.unity.formats.fbx",
-      "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.formats.fbx",
-      "fingerprint": "4ad3eb16b6169d696abf31e81f575752527d445e",
-      "editorCompatibility": "2020.3.0a1",
-      "version": "5.1.1",
-      "source": "registry"
-    },
     "com.unity.physics@1.3.2": {
       "name": "com.unity.physics",
       "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.physics",
@@ -408,6 +490,14 @@
       "fingerprint": "616862665d8c8ffe643d505aebb5de2ee73b0ab0",
       "editorCompatibility": "2020.3.0a1",
       "version": "1.8.18",
+      "source": "registry"
+    },
+    "com.unity.nuget.newtonsoft-json@3.2.1": {
+      "name": "com.unity.nuget.newtonsoft-json",
+      "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.nuget.newtonsoft-json",
+      "fingerprint": "74deb55db2a0c29ddfda576608bcb86abbd13ee6",
+      "editorCompatibility": "2018.4.0a1",
+      "version": "3.2.1",
       "source": "registry"
     },
     "com.unity.searcher@4.9.2": {
@@ -442,6 +532,14 @@
       "version": "1.0.1",
       "source": "builtin"
     },
+    "com.autodesk.fbx@5.1.1": {
+      "name": "com.autodesk.fbx",
+      "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.autodesk.fbx",
+      "fingerprint": "5797ff6b31c7c66189bffe1adc9cbf0ad5a9cbbf",
+      "editorCompatibility": "2020.3.0a1",
+      "version": "5.1.1",
+      "source": "registry"
+    },
     "com.unity.settings-manager@2.0.1": {
       "name": "com.unity.settings-manager",
       "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.unity.settings-manager",
@@ -456,14 +554,6 @@
       "fingerprint": "60ef35ffd3cd5e2f5c8887a4a4ca6148854cd092",
       "editorCompatibility": "2019.4.0a1",
       "version": "2.0.5",
-      "source": "registry"
-    },
-    "com.autodesk.fbx@5.1.1": {
-      "name": "com.autodesk.fbx",
-      "resolvedPath": "/Users/silasruff/Unity projects/Steampunk game/Library/PackageCache/com.autodesk.fbx",
-      "fingerprint": "5797ff6b31c7c66189bffe1adc9cbf0ad5a9cbbf",
-      "editorCompatibility": "2020.3.0a1",
-      "version": "5.1.1",
       "source": "registry"
     },
     "com.unity.serialization@3.1.2": {

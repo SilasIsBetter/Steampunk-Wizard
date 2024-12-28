@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{BE18CAC8-B6D3-7CC3-B35F-3B9B3D01B2A3}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMODUnityResonanceEditor", "FMODUnityResonanceEditor.csproj", "{2768C7C1-7DB4-58FF-A84B-61076E81DCC0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMODUnityEditor", "FMODUnityEditor.csproj", "{814F3956-F2DF-FF74-60A8-8B02AE3AE680}"
@@ -17,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BE18CAC8-B6D3-7CC3-B35F-3B9B3D01B2A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BE18CAC8-B6D3-7CC3-B35F-3B9B3D01B2A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BE18CAC8-B6D3-7CC3-B35F-3B9B3D01B2A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BE18CAC8-B6D3-7CC3-B35F-3B9B3D01B2A3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2768C7C1-7DB4-58FF-A84B-61076E81DCC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2768C7C1-7DB4-58FF-A84B-61076E81DCC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2768C7C1-7DB4-58FF-A84B-61076E81DCC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
